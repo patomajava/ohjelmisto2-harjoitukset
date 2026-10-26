@@ -2,30 +2,15 @@ body {
     margin: 0;
     font-family: "Google Sans", sans-serif;
     background-color: #080F1F;
-    color: white;
 }
 
 .navbar {
     margin: 20px 20px 0;
-    padding: 0 0px;
     height: 64px;
     display: flex;
     align-items: center;
     background-color: #101D35;
     border-radius: 12px;
-}
-
-.logo {
-    display: flex;
-    align-items: center;
-    object-fit: contain;
-}
-
-.logo img {
-    max-width: 100%;
-    max-height: 64px;
-    object-fit: contain;
-    border-radius: 50px;
 }
 
 .navigation {
@@ -48,17 +33,30 @@ body {
     color: #8DBBFF;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    object-fit: contain;
+}
+
+.logo img {
+    max-width: 100%;
+    max-height: 64px;
+    object-fit: contain;
+    border-radius: 50px;
+}
+
 .home {
     margin-top: 15px;
-    margin-left: 40px;
-    margin-right: 40px;
     margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
     height: 600px;
-    align-self: center;
+    border-radius: 12px;
     background-color: #1B2E4B;
+    align-self: center;
     align-items: center;
     text-align: center;
-    border-radius: 12px;
 }
 
 p {
@@ -73,8 +71,11 @@ p {
 
 .overwatch img {
     margin-top: 0px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
     width: 100%;
-    height: 450px;
+    height: 500px;
     border-radius: 20px;
     object-fit: cover;
     object-position: center;
@@ -82,26 +83,26 @@ p {
 
 .products {
     margin-top: 15px;
-    margin-left: 40px;
-    margin-right: 40px;
     margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
     height: 600px;
-    align-self: center;
+    border-radius: 12px;
     background-color: #1B2E4B;
+    align-self: center;
     align-items: center;
     text-align: center;
+}
+
+.contacts {
+    margin-top: 15px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    height: 600px;
     border-radius: 12px;
-}
-
-.overwatch2 {    
-    padding: 18px;
-}
-
-.overwatch2 img {
-    margin-top: 0px;
-    width: 100%;
-    height: 236px;
-    border-radius: 20px;
-    object-fit: cover;
-    object-position: top;
+    background-color: #1B2E4B;
+    align-self: center;
+    align-items: center;
+    text-align: center;
 }
