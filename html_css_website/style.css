@@ -138,10 +138,20 @@ p {
     text-align: center;
 }
 
-.product_card h2 {
+.product_card h1 {
     font-size: 25px;
     margin: 0 0 20px;
+    padding: 0;
     color: #8DBBFF;
+    font-weight: bold;
+    letter-spacing: normal;
+}
+
+.product_card h2 {
+    font-size: 20px;
+    margin: 15px 0;
+    padding: 0;
+    font-weight: bold;
 }
 
 .product_image {
@@ -157,11 +167,6 @@ p {
     height: 100%;
     object-fit: cover;
     display: block;
-}
-
-.product_card h3 {
-    font-size: 20px;
-    margin: 15px 0;
 }
 
 .product_card p {
