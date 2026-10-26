@@ -50,7 +50,8 @@ body {
     margin-bottom: 15px;
     margin-right: 40px;
     margin-left: 40px;
-    height: 1000px;
+    min-height: 1000px;
+    height: auto;
     border-radius: 15px;
     color: white;
     background-color: #1B2E4B;
@@ -72,6 +73,7 @@ h1 {
 }
 
 p {
+    padding-bottom: 40px;
     max-width: 1000px;
     font-size: 18px;
     margin: 0 auto;
@@ -97,7 +99,7 @@ p {
 }
 
 .products {
-    height: 1100px;
+    height: 1200px;
     padding-bottom: 50px;
 }
 
@@ -192,11 +194,11 @@ p {
 .contact_info p {
     margin: 0;
     font-size: 20px;
-    line-height: 1.4;
+    line-height: 0;
     text-align: left;
 }
 
-.contact_info .contact_intro {
+.contact_intro {
     margin-bottom: 10px;
     font-style: italic;
 }
