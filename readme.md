@@ -1,15 +1,16 @@
-## Software 2 - Programming assignments
+# Software 2 - Programming assignments
 
-# JS Module 1 & 2
+## JS Module 1 & 2
 
-[My link to js module 1 & 2 folder at users.metropolia.fi](https://users.metropolia.fi/~username/js1-folder)
+[My link to javascript modules 1 & 2 folder at users.metropolia.fi](https://users.metropolia.fi/~lauriopa/javascript_01_02)
 
 Completed assignments:
 
-- Task 1: 2 p
+- Task 1: 1 p
+- Task 2: 2 p
+- Task 3: 3 p
 - Task 4: 3 p
-- Task 5: 6 p
 
-**Total 11 p**
+**Total 9 p**
 
-# JS Module 3
+## JS Module 3
