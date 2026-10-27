@@ -10,7 +10,9 @@ Completed assignments:
 - Task 2: 2 p
 - Task 3: 3 p
 - Task 4: 3 p
+- Task 5: 3 p
+- Task 10: 5 p
 
-**Total 9 p**
+**Total 17 p**
 
 ## JS Module 3
