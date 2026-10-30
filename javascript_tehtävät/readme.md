@@ -21,13 +21,13 @@ Completed assignments:
 
 Completed assignments:
 
-- Task 1: 0 p
-- Task 2: 0 p
-- Task 3: 0 p
-- Task 4: 0 p
-- Task 5: 0 p
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 6: 2 p
+- Task 10: 8 p
 
-**Total 0 p**
+**Total 14 p**
 
 ## JS Module 4
 
