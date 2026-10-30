@@ -27,7 +27,7 @@ Completed assignments:
 - Task 6: 2 p
 - Task 10: 8 p
 
-**Total 14 p**
+**Total 16 p**
 
 ## JS Module 4
 
