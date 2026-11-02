@@ -14,7 +14,7 @@ button.addEventListener("click", function() {
         vastaus = numero1 + numero2;
     }
     else if (valikko.value == "sub") {
-        vastaus = numero1 - numero2;s
+        vastaus = numero1 - numero2;
     }
     else if (valikko.value == "multi") {
         vastaus = numero1 * numero2;
