@@ -35,10 +35,10 @@ Completed assignments:
 
 Completed assignments:
 
-- Task 1: 0 p
-- Task 2: 0 p
-- Task 3: 0 p
-- Task 4: 0 p
-- Task 5: 0 p
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 10: 2 p
+- Task 11: 4 p
 
-**Total 0 p**
+**Total 12 p**
