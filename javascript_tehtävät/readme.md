@@ -46,6 +46,7 @@ Completed assignments:
 ## Python Flask Server
 
 [My link to javascript module 4 folder at users.metropolia.fi](https://users.metropolia.fi/~lauriopa/JavaScript_modules/python_flask)
+
 Completeted assignments:
 
 - Task 1: 4p
