@@ -42,3 +42,16 @@ Completed assignments:
 - Task 11: 4 p
 
 **Total 12 p**
+
+## Python Flask Server
+
+[My link to javascript module 4 folder at users.metropolia.fi](https://users.metropolia.fi/~lauriopa/JavaScript_modules/python_flask)
+Completeted assignments:
+
+- Task 1: 4p
+- Task 2: 10p
+- Task 3: 6p
+
+**Total 20 p**
+
+## JS Module 5
