@@ -56,3 +56,14 @@ Completeted assignments:
 **Total 20 p**
 
 ## JS Module 5
+
+[My link to python flask server folder at users.metropolia.fi](https://users.metropolia.fi/~lauriopa/JavaScript_modules/module05)
+
+Completed assignments:
+
+- Task 1: 2p
+- Task 2: 3p
+- Task 3: 7p
+- Task 5: 2p
+
+**Total 14p**

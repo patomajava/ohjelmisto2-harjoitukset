@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <form id="airport-form">
+  <input name="icao" type="text" placeholder="Syötä lentokentän ICAO-koodi" />
+  <input name="submit" type="submit" value="Lähetä" />
+</form>
+
+<script>
+  "use strict";
+
+  // Kun lomake lähetetään...
+  const airportForm = document.querySelector("#airport-form");
+  airportForm.addEventListener("submit", async function (evt) {
+    // ... estetään lomakkeen oletustoiminto (sivun uudelleenlataus).
+    evt.preventDefault();
+    // haetaan input-elementin arvo
+    const code = document.querySelector("input[name=icao]").value;
+    try {
+      // virheenkäsittely: try/catch/finally
+      const response = await fetch(`http://127.0.0.1:3000/airport/${code}`); // aloitetaan datan lataus; fetch palauttaa lupauksen, joka ratkeaa Response-olioksi
+      const jsonData = await response.json(); // muunnetaan vastauksen JSON-data JavaScript-olioksi json()-metodilla
+      console.log(jsonData.ICAO, jsonData.Name); // tulostetaan tulos konsoliin
+    } catch (error) {
+      console.log(error.message);
+    }
+  });
+</script>
+
+</body>
+</html>
